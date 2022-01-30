@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React node java**
 
-- 📫 How to reach me **adithya-coder.git@gamil.com**
+- 📫 How to reach me **admin@adithya.software**
 
 - ⚡ Fun fact **funny**
 
