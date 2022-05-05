@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya Heshan</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">A  Software developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-coder" /> </p>
@@ -15,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **React node java**
+- 💬 Ask me about **MERN/java/Spring**
 
 - 📫 How to reach me **admin@adithya.software**
 
