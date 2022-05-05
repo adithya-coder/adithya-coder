@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya Heshan</h1>
-[trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
 <h3 align="center">A  Software developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-coder" /> </p>
