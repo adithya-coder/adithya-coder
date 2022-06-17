@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya-coder" alt="adithya-coder" /></a> </p>
 
-- 🔭 I’m currently working on [FalconX Software solution](https://github.com/adithya-coder/my-java-system-sample)
+- 🔭 I’m currently working on [ZinCaT Technology](https://www.zincat.net)
 
 - 🌱 I’m currently learning [SLIIT](https://www.sliit.lk)
 
