@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya-coder" alt="adithya-coder" /></a> </p>
 
-- 🔭 I’m currently working on [ZinCaT Technology](https://www.zincat.net)
+- 🔭 I’m currently working on [Dialog Axiata PLC](https://dlg.dialog.lk/)
 
 - 🌱 I’m currently learning [SLIIT](https://www.sliit.lk)
 
